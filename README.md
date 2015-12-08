@@ -6,10 +6,9 @@
 [iOS Goodies](http://ios-goodies.com/) | <>
 
 
-博客地址 | RSS地址
 ----- | -----
-[OneV's Den](http://onevcat.com) | 
-[破船之家](http://beyondvincent.com) |
+[OneV's Den](http://onevcat.com) 
+[破船之家](http://beyondvincent.com) 
 [NSHipster](http://nshipster.cn) |
 [Limboy 无网不剩](http://blog.leezhong.com/) | 
 [唐巧的技术博客](http://blog.devtang.com) | <http://blog.devtang.com/atom.xml>
