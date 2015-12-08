@@ -1,6 +1,6 @@
 # iOS Website
 
-博客地址 | RSS地址
+名称 | 地址
 ----- | -----
 [CocoaChina](http://www.cocoachina.com/) |  <http://www.cocoachina.com/>
 [NSHipster](http://nshipster.cn/) | <http://nshipster.cn/>
