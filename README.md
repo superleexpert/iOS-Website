@@ -10,6 +10,7 @@ iOSer |  <http://ioser.org/>
 OurCoders |  <http://ourcoders.com/home/>
 NSHipster | <http://nshipster.cn/>
 cocoa CONTROLS | <https://www.cocoacontrols.com/>
+Cocoa Cats | <http://cocoacats.com/>
 objc | <https://www.objc.io/>
 RAYWENDERLICH | <http://www.raywenderlich.com/>
 iOS Goodies | <http://ios-goodies.com/>
