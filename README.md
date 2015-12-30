@@ -19,4 +19,7 @@ iOS-Blog | <http://ios-blog.co.uk/>
 
 名称 | 资源 
 ----- | ----- 
-不常用热门第三方库 |  <http://segmentfault.com/a/1190000003849085?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare&searchPic=false> 
+Github热门类库 |  <https://github.com/trending?l=objective-c&since=monthly> 
+不常用热门第三方库 |  <http://segmentfault.com/a/1190000003849085?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare&searchPic=false>
+Github Top类库 |  <https://github.com/Aufree/trip-to-iOS/blob/master/Top-100.md> 
+
