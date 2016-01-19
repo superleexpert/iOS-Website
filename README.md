@@ -25,4 +25,6 @@ Github热门类库 |  <https://github.com/trending?l=objective-c&since=monthly>
 不常用热门第三方库 |  <http://segmentfault.com/a/1190000003849085?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare&searchPic=false>
 Github Top类库 |  <https://github.com/Aufree/trip-to-iOS/blob/master/Top-100.md> 
 iOS学习资料整理 | <https://github.com/Aufree/trip-to-iOS> 
+105个全球最佳博客 | <http://www.softwarehow.com/best-blogs-for-ios-developers/> && <http://geek.csdn.net/news/detail/51862>
+
 
