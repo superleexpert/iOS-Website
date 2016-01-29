@@ -26,5 +26,6 @@ Github热门类库 |  <https://github.com/trending?l=objective-c&since=monthly>
 Github Top类库 |  <https://github.com/Aufree/trip-to-iOS/blob/master/Top-100.md> 
 iOS学习资料整理 | <https://github.com/Aufree/trip-to-iOS> 
 105个全球最佳博客 | <http://www.softwarehow.com/best-blogs-for-ios-developers/> && <http://geek.csdn.net/news/detail/51862>
+开源项目及类库 | <https://github.com/Tim9Liu9/TimLiu-iOS#%E5%AE%8C%E6%95%B4%E9%A1%B9%E7%9B%AE> 
 
 
