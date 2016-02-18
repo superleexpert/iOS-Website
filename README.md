@@ -28,5 +28,6 @@ iOS学习资料整理 | <https://github.com/Aufree/trip-to-iOS>
 105个全球最佳博客 | <http://www.softwarehow.com/best-blogs-for-ios-developers/> && <http://geek.csdn.net/news/detail/51862>
 开源项目及类库 | <https://github.com/Tim9Liu9/TimLiu-iOS#%E5%AE%8C%E6%95%B4%E9%A1%B9%E7%9B%AE> 
 2015开源App总结 | <http://www.finalshares.com/read-6503#read_2144?jike-571> 
+Open-Source iOS Apps | <httphttps://github.com/dkhamsing/open-source-ios-apps> 
 
 
