@@ -18,6 +18,7 @@ iOS Goodies | <http://ios-goodies.com/>
 iOS Dev Weekly | <https://iosdevweekly.com/>
 iOS-Blog | <http://ios-blog.co.uk/>
 reddit | <https://www.reddit.com/r/iOSProgramming/>
+掘金翻译 | <https://github.com/xitu/gold-miner>
 
 名称 | 资源 
 ----- | ----- 
